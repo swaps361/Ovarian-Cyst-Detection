@@ -41,7 +41,8 @@ This project focuses on developing a deep learning model using the MobileNet V2 
     pip install -r requirements.txt
     ```
 
-3. **Run each cell to perform the workflow**
+3. **Run each cell to perform the workflow:**
+    run each cell one by one to generate the outputs
 
 
 ## Contact
