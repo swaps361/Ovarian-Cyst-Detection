@@ -54,6 +54,7 @@ The MobileNet V2 model was trained on the dataset and evaluated for its performa
 - **Training Accuracy**: 93.16%
 - **Validation Accuracy**: 97.01%
 
+[![Opera-Snapshot-2023-07-13-125434-takescreenshot-com.png](https://i.postimg.cc/GtxyNHDN/Opera-Snapshot-2023-07-13-125434-takescreenshot-com.png)](https://postimg.cc/SYjRYQD7)
 
 ## Contact
 For any questions or feedback, feel free to reach out to [architaaswain16@gmail.com](mailto:architaaswain16@gmail.com) , [swapnildas742@gmail.com](mailto:swapnildas742@gmail.com) , [medha30ki@gmail.com](mailto:medha30ki@gmail.com)
