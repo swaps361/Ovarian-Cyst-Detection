@@ -24,6 +24,9 @@ This project focuses on developing a deep learning model using the MobileNet V2 
 
 ## Methodology
 1. **Data Collection**: Gather a dataset of ultrasound images labeled for the presence or absence of ovarian cysts.
+
+[![Screenshot-2024-04-04-111054.png](https://i.postimg.cc/v8t1zwX1/Screenshot-2024-04-04-111054.png)](https://postimg.cc/xqqTf7wY)
+
 2. **Data Preprocessing**: Preprocess the images to ensure they are suitable for training the model, including resizing, normalization, and augmentation.
 3. **Model Development**: Develop the MobileNet V2 model using TensorFlow and Keras.
 4. **Training**: Train the model on the preprocessed dataset and fine-tune the hyperparameters to achieve optimal performance.
@@ -43,6 +46,13 @@ This project focuses on developing a deep learning model using the MobileNet V2 
 
 3. **Run each cell to perform the workflow:**
     run each cell one by one to generate the outputs
+
+
+## Model Performance
+The MobileNet V2 model was trained on the dataset and evaluated for its performance. Below are the key results:
+
+- **Training Accuracy**: 93.16%
+- **Validation Accuracy**: 97.01%
 
 
 ## Contact
