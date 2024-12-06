@@ -1,5 +1,10 @@
 # Ovarian Cyst Detection using MobileNet V2
 
+## Team Members  
+- Architaa Swain  
+- Swapnil Das  
+- Medha  
+
 ## Description
 This project focuses on developing a deep learning model using the MobileNet V2 architecture to accurately detect ovarian cysts from ultrasound images. The aim is to leverage the efficiency and accuracy of MobileNet V2 to assist medical professionals in the early diagnosis and treatment of ovarian cysts.
 
